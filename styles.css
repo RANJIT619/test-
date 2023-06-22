@@ -1,0 +1,25 @@
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 60vh;
+    flex-direction: column;
+}
+
+h1{
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+input{
+    font-size: 25px;
+    width: 500px;
+}
+
+button{
+    font-size: 25px;
+}
+
+body{
+    background-color: lavenderblush;
+}
